@@ -1,0 +1,27 @@
+1.Creare una classe di nome UtenteBiblioteca che ha al suo interno:
+
+• ha un singleton che servirà a recuperare sempre lo stesso utente tramite
+il metodo getInstance;
+• un arrayList di String con getter e setter chiamata listaLibri
+• un metodo void chiamato “aggiungiLibro” che prende in input una stringa
+e l’aggiunge alla lista dei libri dell’utente.
+=============================================================================================
+2.Creare una classe di nome Libro che al suo interno:
+
+• contiene 2 variabili di istanza entrambe di tipo String nomeLibro,e
+descrizioneLibro
+• un costruttore parametrico ed i metodi set e get.
+• un metodo void “infoLibro” che stampa in modo concatenato le
+informazioni del libro
+==============================================================================================
+3.Definire una classe “Test” e creare un main che esegue le seguenti
+operazioni:
+
+• recuperare tramite il signleton l’oggetto UtenteBiblioteca
+• istanzi tre oggetti di tipo Libro
+• memorizzi in un arrayList i tre oggetti creati
+• aggiunga il nomeLibro di ogni oggetto alla lista dei libri
+dell’utenteBibloteca
+• OPZIONALE: Stampi la lista di libri del utenteBiblioteca(massima libertà,
+si può fare in diversi modi)
+==============================================================================================
