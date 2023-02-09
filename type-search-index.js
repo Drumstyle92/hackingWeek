@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"it.bibloteca.develhope","l":"Libro"},{"p":"it.bibloteca.develhope","l":"Test"},{"p":"it.bibloteca.develhope","l":"UtenteBiblioteca"}];updateSearchResults();
